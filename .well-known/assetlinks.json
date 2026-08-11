@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.glipx.twa",
-        "sha256_cert_fingerprints": ["10:5C:A4:E5:3D:3A:0F:97:DE:CA:AB:F1:40:6F:AB:A4:CA:88:75:47:47:86:FA:F1:86:87:2F:FA:2D:C5:DF:3A"]
+        "sha256_cert_fingerprints": ["D1:D5:6A:C7:9F:D5:3E:F2:97:8B:ED:31:6F:49:43:7B:4C:55:24:54:FC:3A:3F:0B:78:98:93:76:BD:53:7A:D6"]
       }
     }]
